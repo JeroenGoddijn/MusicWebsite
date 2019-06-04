@@ -1,0 +1,706 @@
+{
+    "href": "https://api.spotify.com/v1/albums/60TXSuzXQoEy3p5cQEkLu7/tracks?offset=0&limit=50&market=US",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22PDDxasXyFMek05JaWmVC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/22PDDxasXyFMek05JaWmVC",
+        "id": "22PDDxasXyFMek05JaWmVC",
+        "is_local": false,
+        "is_playable": true,
+        "name": "My Fairy King - BBC Session / February 5th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:22PDDxasXyFMek05JaWmVC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 228626,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qFTqz2IW4C9pRXPiijwjt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qFTqz2IW4C9pRXPiijwjt",
+        "id": "3qFTqz2IW4C9pRXPiijwjt",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Keep Yourself Alive - BBC Session / February 5th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3qFTqz2IW4C9pRXPiijwjt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251840,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/16EyUKbpib1iHyV3qa0HYH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/16EyUKbpib1iHyV3qa0HYH",
+        "id": "16EyUKbpib1iHyV3qa0HYH",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Doing All Right - BBC Session / February 5th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:16EyUKbpib1iHyV3qa0HYH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 388640,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15ndeIwAaYeY86sPCWMGwf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15ndeIwAaYeY86sPCWMGwf",
+        "id": "15ndeIwAaYeY86sPCWMGwf",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Liar - BBC Session / February 5th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:15ndeIwAaYeY86sPCWMGwf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 259933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QqgSUN4pcoXFIrPKKvftv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5QqgSUN4pcoXFIrPKKvftv",
+        "id": "5QqgSUN4pcoXFIrPKKvftv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "See What A Fool I've Been - BBC Session / July 25th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5QqgSUN4pcoXFIrPKKvftv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OpJzqZmaSrE3LvGvWa32P"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0OpJzqZmaSrE3LvGvWa32P",
+        "id": "0OpJzqZmaSrE3LvGvWa32P",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Keep Yourself Alive - BBC Session / July 25th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0OpJzqZmaSrE3LvGvWa32P"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 388480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7D8BOBofsGAUlgvKBOS5xG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7D8BOBofsGAUlgvKBOS5xG",
+        "id": "7D8BOBofsGAUlgvKBOS5xG",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Liar - BBC Session / July 25th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7D8BOBofsGAUlgvKBOS5xG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 362080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7FwLqOBu6cv1AAewM4Lji9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7FwLqOBu6cv1AAewM4Lji9",
+        "id": "7FwLqOBu6cv1AAewM4Lji9",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Son And Daughter - BBC Session / July 25th 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7FwLqOBu6cv1AAewM4Lji9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 279053,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Yk3CMLGIum15fTwyudaXX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Yk3CMLGIum15fTwyudaXX",
+        "id": "4Yk3CMLGIum15fTwyudaXX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Ogre Battle - BBC Session / December 3rd 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:4Yk3CMLGIum15fTwyudaXX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 121013,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BHFdEeGM9bXcqyjCJfzW9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BHFdEeGM9bXcqyjCJfzW9",
+        "id": "7BHFdEeGM9bXcqyjCJfzW9",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Modern Times Rock 'n' Roll - BBC Session / December 3rd 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7BHFdEeGM9bXcqyjCJfzW9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 356480,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5d92UPrLsRvIyuoRytnYCH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5d92UPrLsRvIyuoRytnYCH",
+        "id": "5d92UPrLsRvIyuoRytnYCH",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Great King Rat - BBC Session / December 3rd 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5d92UPrLsRvIyuoRytnYCH"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 433173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2z45KnRMNNHkUaqDxPB5Um"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2z45KnRMNNHkUaqDxPB5Um",
+        "id": "2z45KnRMNNHkUaqDxPB5Um",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Son And Daughter - BBC Session / December 3rd 1973, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:2z45KnRMNNHkUaqDxPB5Um"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 166026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3CGrqjdYx2eplhrRaR8evb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3CGrqjdYx2eplhrRaR8evb",
+        "id": "3CGrqjdYx2eplhrRaR8evb",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Modern Times Rock 'n' Roll - BBC Session / April 3rd 1974, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3CGrqjdYx2eplhrRaR8evb"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 87866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Yu1HmXSae7kdJru6TrrQ9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Yu1HmXSae7kdJru6TrrQ9",
+        "id": "0Yu1HmXSae7kdJru6TrrQ9",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Nevermore - BBC Session / April 3rd 1974, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0Yu1HmXSae7kdJru6TrrQ9"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 292773,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2AteKj9kfM7lChIaol2GA3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2AteKj9kfM7lChIaol2GA3",
+        "id": "2AteKj9kfM7lChIaol2GA3",
+        "is_local": false,
+        "is_playable": true,
+        "name": "White Queen (As It Began) - BBC Session / April 3rd 1974, Langham 1 Studio",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2AteKj9kfM7lChIaol2GA3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 257453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tC6gF52GoO32z8tgHWynf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tC6gF52GoO32z8tgHWynf",
+        "id": "0tC6gF52GoO32z8tgHWynf",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Now I'm Here - BBC Session / October 16th 1974, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0tC6gF52GoO32z8tgHWynf"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 135573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/44WvyvSNNqfyOuAoOVuGTa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/44WvyvSNNqfyOuAoOVuGTa",
+        "id": "44WvyvSNNqfyOuAoOVuGTa",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Stone Cold Crazy - BBC Session / October 16th 1974, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:44WvyvSNNqfyOuAoOVuGTa"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 204880,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7dTZpEewYH14tI8thyNyh3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7dTZpEewYH14tI8thyNyh3",
+        "id": "7dTZpEewYH14tI8thyNyh3",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Flick Of The Wrist - BBC Session / October 16th 1974, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7dTZpEewYH14tI8thyNyh3"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 178320,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Xi39sGjqCcPSkcusVZljX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Xi39sGjqCcPSkcusVZljX",
+        "id": "2Xi39sGjqCcPSkcusVZljX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tenement Funster - BBC Session / October 16th 1974, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2Xi39sGjqCcPSkcusVZljX"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 95533,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/39Q0fbdyQfyBkgwY0zxMtQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/39Q0fbdyQfyBkgwY0zxMtQ",
+        "id": "39Q0fbdyQfyBkgwY0zxMtQ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "We Will Rock You - BBC Session / October 28th 1977, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:39Q0fbdyQfyBkgwY0zxMtQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 165026,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5nfkmlUT5t5NuSeQgFXzWx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nfkmlUT5t5NuSeQgFXzWx",
+        "id": "5nfkmlUT5t5NuSeQgFXzWx",
+        "is_local": false,
+        "is_playable": true,
+        "name": "We Will Rock You (Fast) - BBC Session / October 28th 1977, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5nfkmlUT5t5NuSeQgFXzWx"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 322866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1oJxXyFKRmG6B1ShCQNx9u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1oJxXyFKRmG6B1ShCQNx9u",
+        "id": "1oJxXyFKRmG6B1ShCQNx9u",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Spread Your Wings - BBC Session / October 28th 1977, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1oJxXyFKRmG6B1ShCQNx9u"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 396920,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4kRARLcqyiVbbn5AcdtKae"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4kRARLcqyiVbbn5AcdtKae",
+        "id": "4kRARLcqyiVbbn5AcdtKae",
+        "is_local": false,
+        "is_playable": true,
+        "name": "It's Late - BBC Session / October 28th 1977, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4kRARLcqyiVbbn5AcdtKae"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 195453,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/513QNSmBY7dkF2BMGmagRz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/513QNSmBY7dkF2BMGmagRz",
+        "id": "513QNSmBY7dkF2BMGmagRz",
+        "is_local": false,
+        "is_playable": true,
+        "name": "My Melancholy Blues - BBC Session / October 28th 1977, Maida Vale 4 Studio",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:513QNSmBY7dkF2BMGmagRz"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 24
+  }

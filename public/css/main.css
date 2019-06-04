@@ -1,0 +1,159 @@
+/* @import url(http://fonts.googleapis.com/css?family=Roboto:100, 300); */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-weight: 300;
+  color: #C1343F; */
+}
+
+p {
+  font-family: inherit;
+  font-weight: 100;
+}
+
+
+li {
+  font-family: inherit;
+}
+
+
+a {
+  color: #DD4F53;
+}
+
+/** Header Navigation **/
+
+header {
+    height: 500px;
+    position: relative;
+    align-self: center;
+}
+
+.navbar {
+    background-image: url('../images/Queen/bohemianrhapsody_banner.jpg');
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/Queen/bohemianrhapsody_banner.jpg"); */
+    background-repeat: no-repeat;
+    background-position-y: -185px;
+    overflow: hidden;
+    height: 500px;
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    align-content: space-around;
+    align-items: flex-end;
+}
+
+.navbar-header {
+    font-size: 4rem;
+}
+
+.navbar-brand {
+    /* margin-top: -500px; */
+    z-index: 50;
+    vertical-align: text-bottom;
+}
+
+.navbar-brand img{
+    position: relative;
+    height: 100%;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: lightgray;
+    text-transform: uppercase;
+}
+
+
+a:link {
+    color: navy;
+}
+
+a:visited {
+    color: blue;
+}
+
+.navbar-nav li a:hover {
+    color: white;
+    font-weight: bold;
+}
+
+a:focus {
+    color: green;
+}
+
+a:active {
+    color: red;
+}
+
+
+/** MAIN content **/
+
+main {
+    text-align: center;
+}
+
+#albums {
+    position: relative;
+}
+
+.cover {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    background-size: cover;
+    position: relative;
+    border: 2px solid #fff;
+}
+
+.cover:hover {
+    cursor: pointer;
+}
+
+.cover.playing {
+    border: 2px solid #e45343;
+}
+
+.spotify-button {
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+    cursor: pointer;
+}
+
+.albumName {
+    word-wrap: normal;
+}
+
+
+/**  pixgrid **/
+
+.pixgrid {
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .pixgrid img {
+    display: block;
+    padding: 10px;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    float: left;
+    width: 32%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: #999;
+    border-style: solid;
+  }
+  
+  @media (min-width: 500px) and (max-width: 768px) {
+    .pixgrid img {
+      width: 20%;
+    }
+  }
+  

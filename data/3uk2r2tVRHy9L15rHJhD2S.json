@@ -1,0 +1,938 @@
+{
+    "href": "https://api.spotify.com/v1/albums/3uk2r2tVRHy9L15rHJhD2S/tracks?offset=0&limit=50&market=US",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 349733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2RpXUwCytDFqZSHl6kIquB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2RpXUwCytDFqZSHl6kIquB",
+        "id": "2RpXUwCytDFqZSHl6kIquB",
+        "is_local": false,
+        "is_playable": true,
+        "name": "One Vision - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2RpXUwCytDFqZSHl6kIquB"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 246040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1JRnFUNXBUxn23eQaqLtp4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1JRnFUNXBUxn23eQaqLtp4",
+        "id": "1JRnFUNXBUxn23eQaqLtp4",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tie Your Mother Down - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1JRnFUNXBUxn23eQaqLtp4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 149493,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Kq9x6BTgk6QJO5XYYJaaL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Kq9x6BTgk6QJO5XYYJaaL",
+        "id": "4Kq9x6BTgk6QJO5XYYJaaL",
+        "is_local": false,
+        "is_playable": true,
+        "name": "In The Lap Of The Gods - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4Kq9x6BTgk6QJO5XYYJaaL"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 78440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75EIcUGlTsUnAQkxeDhdVG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75EIcUGlTsUnAQkxeDhdVG",
+        "id": "75EIcUGlTsUnAQkxeDhdVG",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Seven Seas Of Rhye - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:75EIcUGlTsUnAQkxeDhdVG"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 132226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4t5mFsjQDXYjPWgNURiRYQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4t5mFsjQDXYjPWgNURiRYQ",
+        "id": "4t5mFsjQDXYjPWgNURiRYQ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tear It Up - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4t5mFsjQDXYjPWgNURiRYQ"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 521373,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3A2xIqM4482rYGIdJ1jA1L"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3A2xIqM4482rYGIdJ1jA1L",
+        "id": "3A2xIqM4482rYGIdJ1jA1L",
+        "is_local": false,
+        "is_playable": true,
+        "name": "A Kind Of Magic - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3A2xIqM4482rYGIdJ1jA1L"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 221000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2yqVlvXgZ51ynGqwfYADx4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2yqVlvXgZ51ynGqwfYADx4",
+        "id": "2yqVlvXgZ51ynGqwfYADx4",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Under Pressure - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2yqVlvXgZ51ynGqwfYADx4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 358933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lrIpNdaWTVkQxyj5HwwiF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lrIpNdaWTVkQxyj5HwwiF",
+        "id": "7lrIpNdaWTVkQxyj5HwwiF",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Another One Bites The Dust - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7lrIpNdaWTVkQxyj5HwwiF"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6BcmM3O2H241lqePLvztkv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6BcmM3O2H241lqePLvztkv",
+        "id": "6BcmM3O2H241lqePLvztkv",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Who Wants To Live Forever - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6BcmM3O2H241lqePLvztkv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3RviStcvq7swrmqZHjv5B7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3RviStcvq7swrmqZHjv5B7",
+        "id": "3RviStcvq7swrmqZHjv5B7",
+        "is_local": false,
+        "is_playable": true,
+        "name": "I Want To Break Free - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3RviStcvq7swrmqZHjv5B7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 176906,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4DMF3D7o4HZtkQZMUjr3fW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4DMF3D7o4HZtkQZMUjr3fW",
+        "id": "4DMF3D7o4HZtkQZMUjr3fW",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Impromptu - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:4DMF3D7o4HZtkQZMUjr3fW"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 550826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3utiuqvpa694QpaCswrTMV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3utiuqvpa694QpaCswrTMV",
+        "id": "3utiuqvpa694QpaCswrTMV",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Brighton Rock Solo - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:3utiuqvpa694QpaCswrTMV"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 380173,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Waci15lHP8zxs7Ejkipu1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Waci15lHP8zxs7Ejkipu1",
+        "id": "3Waci15lHP8zxs7Ejkipu1",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Now I'm Here - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3Waci15lHP8zxs7Ejkipu1"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 288800,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0KsCFGXPLws3O0xU0LRpJi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KsCFGXPLws3O0xU0LRpJi",
+        "id": "0KsCFGXPLws3O0xU0LRpJi",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Love Of My Life - Live at Wembley",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0KsCFGXPLws3O0xU0LRpJi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 178440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0K9sZNhqS5GLJ1DlDanS4f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0K9sZNhqS5GLJ1DlDanS4f",
+        "id": "0K9sZNhqS5GLJ1DlDanS4f",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Is This The World We Created - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0K9sZNhqS5GLJ1DlDanS4f"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 96226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4i40XgcS2qRh7TOU33IRzu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4i40XgcS2qRh7TOU33IRzu",
+        "id": "4i40XgcS2qRh7TOU33IRzu",
+        "is_local": false,
+        "is_playable": true,
+        "name": "(You're So Square) Baby I Don't Care - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4i40XgcS2qRh7TOU33IRzu"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 110666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/77q4Ly2hQvsDoSwAmt4HX7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/77q4Ly2hQvsDoSwAmt4HX7",
+        "id": "77q4Ly2hQvsDoSwAmt4HX7",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Hello Mary Lou (Goodbye Heart) - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:77q4Ly2hQvsDoSwAmt4HX7"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 204240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3nj0Vx8OlelItkzhbBtb6n"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3nj0Vx8OlelItkzhbBtb6n",
+        "id": "3nj0Vx8OlelItkzhbBtb6n",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tutti Frutti - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3nj0Vx8OlelItkzhbBtb6n"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 54960,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5m7l6nqIGeft8HUfOkpUa0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5m7l6nqIGeft8HUfOkpUa0",
+        "id": "5m7l6nqIGeft8HUfOkpUa0",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Gimme Some Lovin' - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5m7l6nqIGeft8HUfOkpUa0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 350573,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Y6UsWQoQjdRyPZrbFkeqY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Y6UsWQoQjdRyPZrbFkeqY",
+        "id": "0Y6UsWQoQjdRyPZrbFkeqY",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Bohemian Rhapsody - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0Y6UsWQoQjdRyPZrbFkeqY"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 363933,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7g4IW2oMpmcZcaqV4uVJQi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7g4IW2oMpmcZcaqV4uVJQi",
+        "id": "7g4IW2oMpmcZcaqV4uVJQi",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Hammer To Fall - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7g4IW2oMpmcZcaqV4uVJQi"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 358866,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5FalltA3wCyuQa9UQ3YQ76"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5FalltA3wCyuQa9UQ3YQ76",
+        "id": "5FalltA3wCyuQa9UQ3YQ76",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Crazy Little Thing Called Love - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5FalltA3wCyuQa9UQ3YQ76"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 66400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0tJX8CEhMTVKO4NMUmRXIs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tJX8CEhMTVKO4NMUmRXIs",
+        "id": "0tJX8CEhMTVKO4NMUmRXIs",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Big Spender - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0tJX8CEhMTVKO4NMUmRXIs"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 357400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1GRtXtp8IuqTXq0fDwddbS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1GRtXtp8IuqTXq0fDwddbS",
+        "id": "1GRtXtp8IuqTXq0fDwddbS",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Radio Ga Ga - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1GRtXtp8IuqTXq0fDwddbS"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 167733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7epAuIDYDejtjr1Y3pPjOy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7epAuIDYDejtjr1Y3pPjOy",
+        "id": "7epAuIDYDejtjr1Y3pPjOy",
+        "is_local": false,
+        "is_playable": true,
+        "name": "We Will Rock You - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:7epAuIDYDejtjr1Y3pPjOy"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 126200,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3aMau317qccinjsDvdOd0K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3aMau317qccinjsDvdOd0K",
+        "id": "3aMau317qccinjsDvdOd0K",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Friends Will Be Friends - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:3aMau317qccinjsDvdOd0K"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 244733,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4p6YuEveGeCN8nfK7n53TC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4p6YuEveGeCN8nfK7n53TC",
+        "id": "4p6YuEveGeCN8nfK7n53TC",
+        "is_local": false,
+        "is_playable": true,
+        "name": "We Are The Champions - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4p6YuEveGeCN8nfK7n53TC"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 95826,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5fYiPYM4URAEVBlxG12CPt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5fYiPYM4URAEVBlxG12CPt",
+        "id": "5fYiPYM4URAEVBlxG12CPt",
+        "is_local": false,
+        "is_playable": true,
+        "name": "God Save The Queen - Live at Wembley '86",
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:5fYiPYM4URAEVBlxG12CPt"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 430240,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2JeqlbeGCMapoPLsX6eEbA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JeqlbeGCMapoPLsX6eEbA",
+        "id": "2JeqlbeGCMapoPLsX6eEbA",
+        "is_local": false,
+        "is_playable": true,
+        "name": "A Kind Of Magic - Live at Wembley '86 (July 11)",
+        "preview_url": null,
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:2JeqlbeGCMapoPLsX6eEbA"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 267760,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zNAjIn93EixPrg3TnpwU5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zNAjIn93EixPrg3TnpwU5",
+        "id": "2zNAjIn93EixPrg3TnpwU5",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Another One Bites The Dust - Live at Wembley '86 (July 11)",
+        "preview_url": null,
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:2zNAjIn93EixPrg3TnpwU5"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 355266,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0drXdXD78GHOHbR4i1NsgU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0drXdXD78GHOHbR4i1NsgU",
+        "id": "0drXdXD78GHOHbR4i1NsgU",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Crazy Little Thing Called Love - Live at Wembley '86 (July 11)",
+        "preview_url": null,
+        "track_number": 18,
+        "type": "track",
+        "uri": "spotify:track:0drXdXD78GHOHbR4i1NsgU"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+            "id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "type": "artist",
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+          }
+        ],
+        "disc_number": 2,
+        "duration_ms": 113400,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15SW8gc2u6kSt9Am8PChSZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15SW8gc2u6kSt9Am8PChSZ",
+        "id": "15SW8gc2u6kSt9Am8PChSZ",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Tavaski Szel Vizet Araszt - Live",
+        "preview_url": null,
+        "track_number": 19,
+        "type": "track",
+        "uri": "spotify:track:15SW8gc2u6kSt9Am8PChSZ"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 32
+  }

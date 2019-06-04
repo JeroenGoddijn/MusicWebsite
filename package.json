@@ -1,0 +1,20 @@
+{
+  "name": "musicwebsite",
+  "version": "0.0.1",
+  "description": "First Node.js app for DigitalCrafts bootcamp. Using Spotify Web API and OAuth 2.0",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "~4.16.0",
+    "querystring": "~0.2.0",
+    "request": "~2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeroen Goddijn",
+  "license": "ISC"
+}

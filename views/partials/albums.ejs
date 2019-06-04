@@ -1,0 +1,7 @@
+<div id="albums" class="pixgrid clearfix">
+    <% albumNames.forEach(item => { %>
+    <a href="/albumdetails/<%=albumIDs[albumNames.indexOf(item)] %>/<%= item %>">
+        <img class="" src="<%=albumCovers[albumNames.indexOf(item)]%>" alt="<%=item%>">
+    </a>
+    <% }); %>
+</div>

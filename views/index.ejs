@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MusicWebsite</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body class="container">
+
+    <header>
+        <% include ./partials/header %>
+    </header>    
+
+    <main>
+        <h1>The Discography of <%=pageTitle%></h1>
+        <p>Click an album cover to hear a 30 second preview, or click the button to play the album on Spotify!</p><br />
+        <div id="results">
+            <% include ./partials/albums %>
+        </div>
+    </main>
+
+    <footer>
+        <% include ./partials/footer %>
+    </footer>
+
+    <script src="/js/pixgrid.js"></script>
+
+</body>
+</html>
+
