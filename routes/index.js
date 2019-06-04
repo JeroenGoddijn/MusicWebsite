@@ -19,6 +19,7 @@ router.get('/', (req, res) => {
     let albumIDs = [];
 
     // API GET albums url = 	`https://api.spotify.com/v1/artists/${artistID}/albums`
+    // API GET album-tracks url = 	`https://api.spotify.com/v1/albums/{albumID}/tracks`
 
     albumsFile.items.forEach((item) => {
         console.log(item);
